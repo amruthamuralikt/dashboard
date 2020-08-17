@@ -1,0 +1,131 @@
+
+nav
+{
+    color: white;
+    background-color: #e20000;
+
+}
+.sidebar {
+  
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 0;
+    z-index: 100; /* Behind the navbar */
+    padding: 48px 0 0; /* Height of navbar */
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+  }
+  
+  .button
+{
+    background-color: #f75454;
+    color:white;
+}
+
+.sidebar-link:hover
+{
+background-color: #444;
+border-radius: 5px;
+}
+.sidebar-link{
+    transition: all .4s;
+}
+.current
+{
+   background-color: #c7c1c1;
+    border-radius: 7px;
+    box-shadow: 2px 5px 10px #111;
+}
+.current:hover
+{
+    background-color:#444;
+    border-radius: 7px;
+    box-shadow: 2px 5px 20px #111;
+    transform: translateY(-1px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
